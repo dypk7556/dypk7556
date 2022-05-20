@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dypk7556
 - 👀 I’m interested in computer vision and CNN
-
+-  I´m currently learning Emotion detection
 
 
 <!---
